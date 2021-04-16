@@ -12,6 +12,13 @@ For sample dataset from [MongoDB JSON](https://github.com/ozlerhakan/mongodb-jso
 - Mongoose
 - Crypto
 
+Add `.env` to the root directory
+
+```
+PORT=
+MONGO_URI=
+```
+
 Mainly, there are two types of Pagination. They are,
 
 - Offset based pagination
